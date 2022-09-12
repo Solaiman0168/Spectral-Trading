@@ -1,0 +1,28 @@
+Hello,
+
+thank you very much for your delivery. Unfortunately, we still noticed a few points:
+
+1. header: make the logo bigger and increase white space around the logo.
+
+2. the slider navigation left and right fits. Please leave out the bubbles, otherwise they cover text in the image.
+
+3. please do not use white. Please replace all white elements with the color #FAF3DD.
+
+4. the HL of the product is not set dynamically. Currently in the code is fixed "MTG | Blastoise | BASE SET | PSA 10 | EN" here should always be automatically inserted the product title from the offer.
+
+5. the images in the slider are fixed, here should be automatically inserted the images from the offer. In addition, the image is drawn in a format in the length, please set a maximum height (see image, viewed in 820x1180px, "Template-Feedback-Produktbild").
+
+6. the links of the eBay store categories do not work, they should lead to the respective categories. Also, the categories slip into each other when formatted (see image, viewed in 820x1180px, "Template-Feedback-Categories").
+
+7. the links of Follow Us and Question do not work. They should link to the corresponding functions of the eBay store. Also, the Contact Us button is double-spaced in one format, should remain single-spaced (see image, viewed in 820x1180px, "Template-Feedback-Button").
+
+8. the alignment of the stars is not correct in one format (see image, viewed in 1180x820px, "Template-Feedback-Stars").
+
+9. the tab navigation at the end slips into each other (see image, viewed in 820x1180px, "Template-Feedback-Tabs").
+
+10. the store description is too narrow in one format (see image, viewed in 820x1180px, "Template-Feedback-ShopDescription").
+
+Please add these changes.
+
+Best regards
+Alex

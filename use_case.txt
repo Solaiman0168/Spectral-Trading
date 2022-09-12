@@ -1,0 +1,15 @@
+Hello,
+we need an eBay template for our listings. We already have an existing design which should be implemented responsive. You can find the design in the attachment. We have marked the sections with red numbers to explain the sections in more detail.
+1. header, here the company name and a subline in our company's own font should be integrated. We have the font and the license. We have the files for the font and all other graphics and can send them to you.
+2. here the product images should be pulled from the offer and displayed as a slider (without preview of the other images).
+3. here the product title should be taken from the offer.
+4. here should be a free text field, which can grow downwards depending on the text length.
+5. this element should contain a fixed headline and a text.
+6. here are as seen three headlines with icon, which should always be centred.
+7. this element consists of a headline and clickable elements (image + text). The clickable elements should link to the store categories.
+8. this area contains two elements with headline, subline and button. The buttons should link to subscribe to the store and to contact our store.
+9. tab navigation should be integrated here. Only one tab can be displayed at a time. Each tab contains a free text field.
+Best regards
+
+
+https://www.ebay.de/str/spectraltrading
